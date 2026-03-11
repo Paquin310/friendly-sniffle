@@ -10,5 +10,5 @@ I dont know what to do
 I **might** get a wheelchair or a cane
 
 But what about those who want to # run or hike ? Maybe I should merge with AI instead ?
-
+maybe you want surgery instead ?
 Check out my data analysis in #this code
